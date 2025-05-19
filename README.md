@@ -26,8 +26,8 @@ A clean visual pie chart shows how he racked up his runs.
 A dynamic line chart shows his form over time — hover to reveal the number of 100s and 50s each year.
 
 # 🛠️ Tools Used:
-Power BI – for all visuals, filters, and interactivity
-Excel – for structured data input and modeling
+( POWER BI ) – for all visuals, filters, and interactivity
+( EXCEL ) – for structured data input and modeling
 
 This project isn't just about cricket — it's about turning raw data into meaningful stories. Whether you're a sports fan or a data geek, there's something here for everyone to click, explore, and analyze!
 # Screenshot / demos
