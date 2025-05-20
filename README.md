@@ -32,4 +32,4 @@ A dynamic line chart shows his form over time — hover to reveal the number of 
 This project isn't just about cricket — it's about turning raw data into meaningful stories. Whether you're a sports fan or a data geek, there's something here for everyone to click, explore, and analyze!
 # Screenshot / demos
 this is how dashoard looklike:
-![Dasboard Preview](https://github.com/Riteshroy007/Statistical-Analysis-Dashboard/blob/main/Screenshot%202025-05-19%20204859.png)
+![Dasboard Preview](https://github.com/Riteshroy007/Statistical-Analysis-Dashboard/blob/main/Screenshot%202025-05-20%20110258.png)
